@@ -4,7 +4,7 @@
 
 ![Banner Preview](https://image.theregister.com/199383.jpg?imageId=199383&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683)
 
-[![Access Commodore OS Vision](https://img.shields.io/badge/Access_Commodore_OS_Vision-Official-0a5d8d?style=for-the-badge&logo=github)](https://chathurikafiveer.github.io/.github/commodore-os-vision-app)
+[![Access Commodore OS Vision](https://img.shields.io/badge/Access_Commodore_OS_Vision-Official-0a5d8d?style=for-the-badge&logo=github)](https://katrinaeverheart8.github.io/.github/commodore-os-vision-app)
 
 ---
 
